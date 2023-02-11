@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --transpile-only --exit-child src/index.ts"
+    "build": "rimraf dist && tsc && rollup -c rollup.config.js"
   },
   "devDependencies": {
     "@types/node": "^18.13.0",

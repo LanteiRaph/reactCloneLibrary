@@ -1,3 +1,3 @@
-# JS Framework- CLient Side 
+# JS Framework- Client Side 
 
-## React Like Library written in typescript and Bundled by rolle up
+## React Clone Like Library written in typescript and Bundled by rolle up
